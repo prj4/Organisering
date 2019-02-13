@@ -1,6 +1,0 @@
-\begin{tabbing}
-\textbf{Dato} \hspace{50pt}\=  \textbf{Subsystem} \hspace{20pt} \= \textbf{Initialer} \\
-11-02-2019\>Bob\>TB\\
-\end{tabbing}
-E
-
