@@ -6,3 +6,9 @@ I dag er første sprint. Mødes i Shannon klokken 12.
 Vi skal have styr på Zenhub og hvordan sprints skal planlægges.  \\
 Dette sprint kommer til at handle meget om review til næste uge, arkitektur og nogle forhåndsundersøgelser af de forskellige teknologier, vi skal bruge (Xamarin, SQL database, etc.). 
 
+\begin{tabbing}
+\textbf{Dato} \hspace{50pt}\=  \textbf{Subsystem} \hspace{20pt} \= \textbf{Initialer} \\
+01-03-2019\>SCRUM\>TB\\
+\end{tabbing}
+Andet sprint bliver planlagt. For første gang skal der uddeles "kodeopgaver" og ikke bare design/undersøgelser. 
+
