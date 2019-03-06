@@ -1,0 +1,6 @@
+\begin{tabbing}
+\textbf{Dato} \hspace{50pt}\=  \textbf{Subsystem} \hspace{20pt} \= \textbf{Initialer} \\
+06-03-2019\>MobileApp\>TB\\
+\end{tabbing}
+I dag er arbejdet på appen påbegyndt. Oskar og jeg har oprettet et repository og er så småt begyndt at kigge på koden. 
+
